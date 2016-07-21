@@ -568,6 +568,9 @@ textarea {
      text-decoration: underline;
    }
 
+
+   /* QUOTE QUESTION */
+
    .ask{
      font-family: 'bebas_neueregular';
      z-index: 1;
@@ -578,9 +581,13 @@ textarea {
 
    }
 
+   /* SECTION "US" */
+
    .about-us{
      padding-top: 0;
    }
+
+   /* INTRODUCE US */
 
    .p-crispy{
      font-family: 'bebas_neueregular';
@@ -616,6 +623,9 @@ textarea {
      font-weight: lighter;
    }
 
+
+     /* TOP PAGE ABOUT */
+
    .toppage-about{
      height: 850px;
      background: url(../img/fondabout.jpg);
@@ -629,13 +639,13 @@ textarea {
      -o-background-size: cover;
    }
 
+   /* PICTURE CRISPY & JEAN */
+
    .photo-crispy{
      display: block;
      margin: auto;
      height: 270px;
    }
-
-
 
 
    .photo-jean{
@@ -645,12 +655,16 @@ textarea {
    }
 
 
+   /* ICONE TWITTER */
+
    .centerico-perso{
      clear: both;
      text-align: center;
      padding-top: 10px;
 
    }
+
+    /* FOOTER */
 
    #footer_site{
      padding-top: 200px;
